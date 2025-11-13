@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8247555749000882573
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43fd70c9b64e53a4e8702dbd00412a0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.VFXToolbox.Editor::UnityEditor.Experimental.VFX.Toolbox.ImageSequencer.ProcessorInfo
+  Enabled: 1
+  Settings: {fileID: -7656797308039564543}
+--- !u!114 &-7656797308039564543
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d77e015c9f1a1eb44a23bc84ec1b265d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.VFXToolbox.Editor::UnityEditor.Experimental.VFX.Toolbox.ImageSequencer.AssembleProcessor
+  FlipbookNumU: 10
+  FlipbookNumV: 10
+  Mode: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 546069fd762786f4da89225e1989d105, type: 3}
+  m_Name: leHEstMortletGoNfiegsiugfus
+  m_EditorClassIdentifier: Unity.VFXToolbox.Editor::UnityEditor.Experimental.VFX.Toolbox.ImageSequencer.ImageSequence
+  inputFrameGUIDs:
+  - 79aef4b217af3ab47b7c72981d9e6a2f
+  - 0056b52893e698549b5303de8a30cb93
+  - 1759853551987d946a6e23a14fa9e5da
+  - 689cdb049a4d4ef40a842d3a5a729a15
+  - b3b02b7e6c972f4459c6294e017f03e5
+  - d2aa8504f7e062b4cb2cc5b94bd00002
+  - 757da692f342a0147af7a4151dd765ad
+  - e5f79615dd91ce144a9e4f0e5df742ca
+  - 716be0d50e6f24149a64904acbeab8b3
+  - 39471e22623a3df478d1ec9c01cd1798
+  - 36a37e7e15c37c74d9ad79c5078c3d32
+  - d76d75c66a6d726449faa9a272a9afd2
+  - 4430f83ac9fde114db9fc54fbfcfaed4
+  - 49390b6fc9bd73d48989bbee10a64887
+  - 3a34d67b52b379e418d22c4510b6723d
+  - 3931b5a30d3b56c48a4dc13357f8edd1
+  - 3a8a2628daadf9e45941efa6b1f667c9
+  - 82778c4657c5e0c449d0a573f798608d
+  - a089ba187c5254c4fbb8dbcc1470d713
+  - 5fc03cdb90b724748bb1982ed5bdb256
+  - fc035dff8e2b85f40a52aa05e3a667e9
+  - 6ce688a39880f4745866077f07d4e2c3
+  - 16ad56160e3ad5d4c82bfa251c994633
+  - 5bf31fa00be14df44883e5a72d924f23
+  - a06a15bf70b1f894187e85b20b89959d
+  - 7657451265df5884fb7c15de5a047344
+  - 72a7b6affc3c8cd4ba1ef42d204ad676
+  - dce1cdf4198a35e418b64912765a648d
+  - 74d9114688a4a2640aba2f85d6a879a6
+  - 2d2ce1676e02b764192174d28a7c8d98
+  - 0ae92e4f2ea647d42a3477061ad41880
+  - 8f0da4e4cc73d5b4cb8693bf535e738d
+  - 5820282518e7c4a4ab9f0664ae4a3cdf
+  - 59a533e20e7d5e64892dce60fcb18329
+  - c9d6b1fd9cdbbd64d8c87da42fb51838
+  - 11e9d40884f624b49aec435a8927c9aa
+  - a5e0f386747019e46a492c634dc7067b
+  - 2741711f43db97349926df25bdf42dc1
+  - 97de84ca87224f84a87f09327c8cce10
+  - 5b6e5a99a1849bc40bf6afe9b0251c16
+  - 949a829bae9790645bb0410da26e52b6
+  - 26b3a6efd02527a4daf1ef307de3e2bf
+  - 4a3567d8b116c8c4eb233480c67c7d11
+  - de25ae6baf2d41a4f99754a3e4e95678
+  - c68c4488ceb23534ebf2df0eca2e51cc
+  - dde1096c3855dfb4289bf370e06bb003
+  - 93e80b4ff45dfc144a782ba96d5068fa
+  - d07504b6c4ca4eb4a90825e66d8226ad
+  - 4f4a29d507df85f45908832bcc49395a
+  - 20e7dfb4f868a2746a1c5c7bc7b2e116
+  - 142ca64b6262987479352921e60526b4
+  - 73d2dee6a274c164aa14434603fc0579
+  - 69031cc93d9797044bd87c604490576b
+  - 2ac0ae6b4291d034fb0517e8c33edec3
+  - d33a483d3e3422d40aa9022e21438acc
+  - f4748a6fdb707544b981b63f00205e15
+  - 5061665ee7b3a87429086400167e052e
+  - ad44b28f9e6f28e479ab352b9cafc623
+  - 4a99d8e8add86b640abef4477855042e
+  - f3bfe5492d779fd4aad742887fe82325
+  - d9f4d2f2ac3f7054fba677d488532cf1
+  - 3225425c6b494bc47abd764789ef9a21
+  - e0c78465556c851499338797f9634500
+  - 5f5069c35d7f84c4cbf000827e71f7e6
+  - 2953e7fff504d8340955fc921b87816d
+  - 0b420b781235e2b4da15cb3d0eb2812e
+  - 8ef0332f002ebff4389276d4bec8df68
+  - 61a66a28eff60d34faece2a28ae9273e
+  - 77b2e1850170d9d40b655436105bc9f8
+  - 772da248214482c4dbc36cade8c2c0fa
+  - 7c759d854e3edca43af5e8687845f250
+  - 116b4ad0e3907aa4ca5d861373971fb8
+  - 896ef33d70492fa4ea99ea4172497845
+  - 9dc5aaca7e51b754493f2b86b6202ec3
+  - 966b2de172bb29b46b8a4e6c7afd7c0d
+  - 89c412e96ac96fa45a1d0aa3a581ad48
+  - 01e654b2c4dbd4a478191d00b2760762
+  - 56e4a660fea21244f9a81278afe53e23
+  - bbb6c4f311576c04c86937a286cb34f9
+  - f31447fe373384141b9c3e16c6903eaa
+  - 97b8b5a7047fede4f959c401c5a2f984
+  - c40fdb5a11d818d4da28eccb26831ddc
+  - 08d066bd179bf704db39f68a5b0ba0e2
+  - d5510694d395872419a09a91e3c61118
+  - 22aca9db41c06e64ba1db97798cf0e31
+  - 7fd8f5ec544d2264db7039d9bfe07ddc
+  - 4770fc743e2d36149b1705c040e1ad68
+  - 17d73e7cc1be3a84d9e8eea47e4db8c6
+  - a666aa376b3cf78409e524e1ff0abda9
+  - 32cb7ff9ea1c48a47bea24a665a21f49
+  - e4e618fdaeb4d1841bb9f4c322dcb06d
+  - b87a2a313d847e648b9b46646c0f949c
+  - 630b3d6759541434fa2b74bc9e0f04da
+  - 6c7de14bde7017a478290bd863b063b8
+  - 06d6d762ca26009459ceb163cc5b4b1b
+  - ed803806f8b20ba4589034564348e2cb
+  - 8114581b52943be42b9ed823bba331eb
+  - 77911569f8e3b1c488cd3fa289d21b55
+  - 0ff5053f524d29740930c41df8128c36
+  - 63f098459b7d7324991204c833ba241d
+  processorInfos:
+  - {fileID: -8247555749000882573}
+  exportSettings:
+    fileName: Assets/Scenes/leHEstMortletGoNfiegsiugfus_10x10.tga
+    frameCount: 1
+    outputShape: 0
+    exportMode: 0
+    exportAlpha: 1
+    exportSeparateAlpha: 0
+    sRGB: 1
+    highDynamicRange: 0
+    compress: 1
+    generateMipMaps: 1
+    wrapMode: 0
+    filterMode: 1
+    dataContents: 0
+  editSettings:
+    selectedProcessor: -1
+    lockedProcessor: -1
+  inheritSettingsReference: {fileID: 0}
